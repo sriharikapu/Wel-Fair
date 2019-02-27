@@ -4,6 +4,8 @@ Wel-Fair is a Participation economy platform to empower underprivileged citizens
 ## References for details
 https://kauri.io/article/76125c8a2dd543eb8fa2076a46be56f3/wel-fair
 
+https://docs.google.com/presentation/d/1xd-1lB-9zcEdt5HzQSvZXPzCLsrZnrmeSpyWw-a0yhQ/edit?usp=sharing
+
 
 # Inspiration
 The US Government spends $610B on public welfare per year, while the administrative cost can be as high as 40%. Meanwhile low-income population often struggles with employment.
